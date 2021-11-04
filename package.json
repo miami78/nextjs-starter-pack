@@ -1,6 +1,21 @@
 {
   "name": "nextjs-starter-pack",
   "private": true,
+  "version": "1.0.0",
+  "description": "A JavaScript starter for Next.js that includes all you need to build your next 🦄 project.",
+  "author": {
+    "name": "Larry Miami",
+    "email": "miamielarry@gmail.com"
+  },
+  "keywords": [
+    "nextjs",
+    "starter",
+    "unicorn",
+    "airbnb-style-guides",
+    "husky",
+    "prettier",
+    "eslint"
+  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",

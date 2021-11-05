@@ -1,15 +1,16 @@
-  A JavaScript starter for Next.js that includes all you need to build your next 🦄 project.
+A JavaScript starter for Next.js that includes all you need to build your next 🦄 project.
 
-  ## Technologies Used
+## Technologies Used
 
-  - [Nextjs](https://nextjs.org/)
-  - [Eslint](https://eslint.org/)
-  - [Prettier](https://prettier.io/)
-  - [Husky](https://typicode.github.io/husky/#/)
+- [Nextjs](https://nextjs.org/)
+- [Eslint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
+- [Husky](https://typicode.github.io/husky/#/)
 
-  Also includes: 
-  - [Absolute imports](https://nextjs.org/docs/advanced-features/module-path-aliases)
-  - [AirBnB Style Guides for React](https://github.com/airbnb/javascript/tree/master/react)
+Also includes:
+
+- [Absolute imports](https://nextjs.org/docs/advanced-features/module-path-aliases)
+- [AirBnB Style Guides for React](https://github.com/airbnb/javascript/tree/master/react)
 
 # Getting started
 
@@ -21,6 +22,7 @@
 3. yarn && yarn dev or npm install && npm run dev if you prefer not to use yarn.
 
 ```
+
 # Usage
 
 ### Development server
@@ -28,6 +30,7 @@
 ```bash
 yarn start / npm start
 ```
+
 You can view the development server at `localhost:3000`.
 
 ### Production build
@@ -35,4 +38,3 @@ You can view the development server at `localhost:3000`.
 ```bash
  yarn build / npm run build
 ```
-

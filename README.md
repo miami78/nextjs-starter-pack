@@ -1,8 +1,8 @@
 
-![Stargazers](https://img.shields.io/github/stars/miami78/Nextjs-starter-pack?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks//miami78/Nextjs-starter-pack?label=FORKS&style=for-the-badge)
-![License](https://img.shields.io/github/license//miami78/Nextjs-starter-pack?color=green&label=LICENSE&style=for-the-badge)
-![Issues](https://img.shields.io/github/issues//miami78/Nextjs-starter-pack?color=yellow&label=ISSUES&style=for-the-badge)
+![Stargazers](https://img.shields.io/github/stars/miami78/nextjs-starter-pack?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/miami78/nextjs-starter-pack?label=FORKS&style=for-the-badge)
+![License](https://img.shields.io/github/license/miami78/nextjs-starter-pack?color=green&label=LICENSE&style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/miami78/nextjs-starter-pack?color=yellow&label=ISSUES&style=for-the-badge)
 
 
 A JavaScript starter for Next.js that includes all you need to build your next 🦄 project.

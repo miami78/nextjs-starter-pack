@@ -11,7 +11,7 @@
   - [Absolute imports](https://nextjs.org/docs/advanced-features/module-path-aliases)
   - [AirBnB Style Guides for React](https://github.com/airbnb/javascript/tree/master/react)
 
-# 🚀 Getting started
+# Getting started
 
 ```
 1. git clone https://github.com/miami78/Nextjs-starter-pack.git
@@ -28,7 +28,7 @@
 ```bash
 yarn start / npm start
 ```
-You can view the development server at `localhost:8080`.
+You can view the development server at `localhost:3000`.
 
 ### Production build
 

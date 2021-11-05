@@ -1,8 +1,9 @@
-[![Forks][forks-shield]][https://github.com/miami78/Nextjs-starter-pack/network/members]
-[![Stargazers][stars-shield]][https://github.com/miami78/Nextjs-starter-pack/stargazers]
-[![Issues][issues-shield]][https://github.com/miami78/Nextjs-starter-pack/issues]
-[![MIT License][license-shield]][https://github.com/miami78/Nextjs-starter-pack/blob/master/LICENSE.txt]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/larrymiami]
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 A JavaScript starter for Next.js that includes all you need to build your next 🦄 project.
 

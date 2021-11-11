@@ -53,7 +53,15 @@ module.exports = {
   settings: {
     "import/resolver": {
       node: {
-        paths: ["./"],
+        paths: ["."],
+      },
+      alias: {
+        map: [
+          ["@/public", "./public"],
+          ["@/styles", "./styles"],
+          // Add more here
+        ],
+        extensions: [".js", ".jsx"],
       },
     },
   },

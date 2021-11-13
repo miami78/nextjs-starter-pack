@@ -22,7 +22,7 @@ Also includes:
 # Getting started
 
 ```
-1. git clone https://github.com/miami78/Nextjs-starter-pack.git
+1. git clone https://github.com/miami78/nextjs-starter-pack.git
 
 2. cd nextjs-starter-pack
 

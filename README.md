@@ -13,6 +13,7 @@ A JavaScript starter for Next.js that includes all you need to build your next ð
 - [Eslint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 - [Husky](https://typicode.github.io/husky/#/)
+- [GitHub workflows](https://docs.github.com/en/actions/learn-github-actions)
 
 Also includes:
 

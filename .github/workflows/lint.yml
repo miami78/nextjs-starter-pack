@@ -10,6 +10,6 @@ jobs:
     - name: Install modules
       run: yarn
     - name: Run Prettier
-    run: prettier --ignore-path .prettierignore --write .
+      run: prettier --ignore-path .prettierignore --write .
     - name: Run ESLint
       run: eslint **/*.js --report-unused-disable-directives

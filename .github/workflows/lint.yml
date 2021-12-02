@@ -12,4 +12,4 @@ jobs:
     - name: Run Prettier
       run: yarn prettier --ignore-path .prettierignore --write .
     - name: Run ESLint
-      run: yarn eslint **/*.js --report-unused-disable-directives
+      run: yarn eslint '**/*.js' --report-unused-disable-directives

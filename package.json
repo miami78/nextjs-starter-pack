@@ -17,7 +17,7 @@
     "eslint"
   ],
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev - PORT",
     "build": "next build",
     "start": "next start",
     "lint": "eslint **/*.js --report-unused-disable-directives",

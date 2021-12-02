@@ -1,15 +1,19 @@
-name: Lint
+name: Code quality
 
 on: push
 
 jobs:
-  build:
+  code-quality:
+    name: Lint source code
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Install modules
+
+    - name: Install dependencies
       run: yarn
+
     - name: Run Prettier
-    run: prettier --ignore-path .prettierignore --write .
+      run: yarn prettier --ignore-path .prettierignore --write .
+      
     - name: Run ESLint
-      run: eslint **/*.js --report-unused-disable-directives
+      run: yarn eslint '**/*.js' --report-unused-disable-directives
